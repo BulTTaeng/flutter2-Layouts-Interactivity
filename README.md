@@ -8,9 +8,9 @@ made by Jaehyeok Choi
 
 
 ## How this works?
-![course_button](https://github.com/Choi-JaeHyeok-21500749/flutter1/blob/main/1.JPG)
+![course_button](https://github.com/Choi-JaeHyeok-21500749/flutter2-Layouts-Interactivity/blob/main/1.JPG)
 
-First page
+First page. It just shows the layout so the buttons do not work.
 
 ## Where can I get more help, if I need it?
 
